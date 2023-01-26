@@ -21,3 +21,5 @@ bandit8: TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 bandit9: EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 
 bandit10: G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+
+bandit11: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
