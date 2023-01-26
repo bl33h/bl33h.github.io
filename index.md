@@ -40,3 +40,4 @@ bandit18: hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
 
 bandit19: awhqfNnAbc1naukrpqDYcF95h7HoMTrC
 
+bandit20: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
