@@ -9,3 +9,5 @@ bandit2: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 bandit3: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 
 bandit4: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+
+bandit5: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
